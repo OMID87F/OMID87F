@@ -1,16 +1,24 @@
-## Hello there 👋
-I'm...
-<!--
-**OMID87F/OMID87F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm OMID👋
+A networking enthusiast focused on hands-on learning and practical lab environments.
 
-Here are some ideas to get you started:
+Currently learning and building projects around:
+- MikroTik RouterOS
+- Cisco IOS
+- Linux
+- Enterprise Networking
+- Network Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- 🏢 Enterprise Branch Segmentation
+- 🌐 Enterprise Network Lab
+- 🔐 GRE over IPSec (Cisco ↔ MikroTik)
+- ⚖️ Load Balancing + PCC + Failover
+
+## Currently Learning
+- Windows Server
+- Linux Administration
+- Enterprise Networking
+
+## Connect with me
+- [Linkdin:](https://www.linkedin.com/in/omid87f/)
+- [Telegram:](https://t.me/ITOMID87F)
