@@ -15,7 +15,7 @@ Currently learning and building projects around:
 - ⚖️ Load Balancing + PCC + Failover
 
 ## Currently Learning
-- 🪟Windows Server
+- 🪟 Windows Server
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/omid87f/)
