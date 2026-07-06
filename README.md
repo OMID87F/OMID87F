@@ -6,7 +6,6 @@ Currently learning and building projects around:
 - Cisco IOS
 - Linux
 - Enterprise Networking
-- Network Security
 
 ## Featured Projects
 - 🏢 Enterprise Branch Segmentation
@@ -15,9 +14,7 @@ Currently learning and building projects around:
 - ⚖️ Load Balancing + PCC + Failover
 
 ## Currently Learning
-- Windows Server
-- Linux Administration
-- Enterprise Networking
+- 🪟Windows Server
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/omid87f/)
