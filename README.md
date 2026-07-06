@@ -20,5 +20,5 @@ Currently learning and building projects around:
 - Enterprise Networking
 
 ## Connect with me
-- [Linkdin:](https://www.linkedin.com/in/omid87f/)
-- [Telegram:](https://t.me/ITOMID87F)
+- [LinkedIn](https://www.linkedin.com/in/omid87f/)
+- [Telegram](https://t.me/ITOMID87F)
