@@ -5,6 +5,7 @@ Currently learning and building projects around:
 - MikroTik RouterOS
 - Cisco IOS
 - Linux
+- Windows Server
 - Enterprise Networking
 
 ## Featured Projects
