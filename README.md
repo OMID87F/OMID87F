@@ -11,7 +11,6 @@ Currently learning and building projects around:
 ## Featured Projects
 - 🏢 Enterprise Branch Segmentation
 - 🌐 Enterprise Network Lab
-- 📡 Advanced OSPF Design (*Working on it*)
 - 🔐 GRE over IPSec (Cisco ↔ MikroTik)
 - ⚖️ Load Balancing + PCC + Failover
 
