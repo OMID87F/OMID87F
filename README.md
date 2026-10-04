@@ -13,6 +13,7 @@ Currently learning and building projects around:
 - 🌐 Enterprise Network Lab
 - 🔐 GRE over IPSec (Cisco ↔ MikroTik)
 - ⚖️ Load Balancing + PCC + Failover
+- CCNA Mega Lab (Work in Progress)
 
 ## Currently Learning
 - 🪟 Windows Server
