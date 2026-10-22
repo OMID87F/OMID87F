@@ -14,9 +14,11 @@ Currently learning and building projects around:
 - 🔐 GRE over IPSec (Cisco ↔ MikroTik)
 - ⚖️ Load Balancing + PCC + Failover
 - 🆕️ CCNA Mega Lab (Work in Progress)
+- 🪪 Security+ Lab (Work in Progress)
 
 ## Currently Learning
 - 🪟 Windows Server
+- ☎️ Issabel
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/omid87f/)
