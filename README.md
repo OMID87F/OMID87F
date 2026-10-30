@@ -22,4 +22,4 @@ Currently learning and building projects around:
 
 ## Connect with me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omid87f/)
-[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/ITOMID87F)
+[![Telegram](https://skillicons.dev/icons?i=telegramdesktop)](https://t.me/ITOMID87F)
