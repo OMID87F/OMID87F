@@ -21,5 +21,5 @@ Currently learning and building projects around:
 - ☎️ Issabel
 
 ## Connect with me
-- [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omid87f/)
-- [Telegram](https://t.me/ITOMID87F)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omid87f/)
+[![Telegram](https://skillicons.dev/icons?i=telegram)](https://t.me/ITOMID87F)
